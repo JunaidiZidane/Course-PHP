@@ -1,0 +1,2 @@
+<?php
+    $dog = new Animal();
